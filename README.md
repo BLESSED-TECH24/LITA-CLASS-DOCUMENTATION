@@ -25,3 +25,15 @@ In the initial phase of the Data cleanning and preparations, we perform the foll
 1. Data loading and inspection
 2. Handing missing variables
 3. Data cleaning and formatting.
+
+EXPLORATORY DATA ANALYSIS
+EDA involves the exploring of the data to anwser some questions about the Data such as;
+what are the names of the ILVS
+
+### DATA ANAYSIS
+This is where we include some basic lines of codes or qureies or even some of the DAX expressions used during analysis;
+
+```
+SELECT * FROM TABLE1
+WHERE CONDITION = TRUE
+```
