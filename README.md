@@ -33,7 +33,7 @@ what are the names of the ILVS
 ### DATA ANAYSIS
 This is where we include some basic lines of codes or qureies or even some of the DAX expressions used during analysis;
 
-```
+```SQL
 SELECT * FROM TABLE1
 WHERE CONDITION = TRUE
 ```
