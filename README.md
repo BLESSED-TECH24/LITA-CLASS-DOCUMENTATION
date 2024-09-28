@@ -8,4 +8,14 @@ Indigenous leafy vegetables grow naturally in open land, bacyards and dumping si
 Indigenous leafy vegetables are diverse and globally, over 7000 species of leafy vegetables are either cultivated or harvested from the wild for food. ILVs vary in shape, size, colour, taste and nutritional value are consumed in nearly all countries.
 The South west is home to over 24 indigeneous vegetables which includes;
 Green amaranth (Amaranthus hybridus), Solanum macrocarpon (African eggplant), Solanum scabrum (ogunmo), Celosia argentea (Lagos
-spinach/shoko), Ugwu (Telfaria occidentalis) among others.
+spinach/shoko), Ugwu (Telfaria occidentalis) among others. 
+
+### TOOLS USED
+- Microsoft Excel [Download Here].(https://www.microsoft.com)
+  
+  1. for Data cleaning
+  2. for Analysis
+  3. for Visualization
+
+SQL- Structured Query Language for Querying of Data
+GitHub for porfolio building
