@@ -59,6 +59,8 @@ WHERE CONDITION = TRUE
 ### DATA VISUALIZATION
 ADD BAR CHART
 
+❤
+⛽
 
  DRAW TABLE
 |Heading 1|Heading 2|Heading 3|
