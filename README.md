@@ -37,3 +37,10 @@ This is where we include some basic lines of codes or qureies or even some of th
 SELECT * FROM TABLE1
 WHERE CONDITION = TRUE
 ```
+DATA VISUALIZATION
+ADD BAR CHART
+
+
+|Heading 1|Heading 2|Heading 3|
+|---------|---------|---------|
+|Table 1|Table 2|Table 3
